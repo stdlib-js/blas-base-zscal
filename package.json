@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-base-zscal",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Scale a double-precision complex floating-point vector by a double-precision complex floating-point constant.",
   "license": "Apache-2.0",
   "author": {
