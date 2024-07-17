@@ -71,7 +71,7 @@ Scales values from `zx` by `za`.
 var Complex128Array = require( '@stdlib/array-complex128' );
 var Complex128 = require( '@stdlib/complex-float64-ctor' );
 var real = require( '@stdlib/complex-real' );
-var imag = require( '@stdlib/complex-imag' );
+var imag = require( '@stdlib/complex-float64-imag' );
 
 var zx = new Complex128Array( [ 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 ] );
 var za = new Complex128( 2.0, 0.0 );
@@ -101,7 +101,7 @@ The `N` and stride parameters determine how values from `zx` are scaled by `za`.
 var Complex128Array = require( '@stdlib/array-complex128' );
 var Complex128 = require( '@stdlib/complex-float64-ctor' );
 var real = require( '@stdlib/complex-real' );
-var imag = require( '@stdlib/complex-imag' );
+var imag = require( '@stdlib/complex-float64-imag' );
 
 var zx = new Complex128Array( [ 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0 ] );
 var za = new Complex128( 2.0, 0.0 );
@@ -126,7 +126,7 @@ Note that indexing is relative to the first index. To introduce an offset, use [
 var Complex128Array = require( '@stdlib/array-complex128' );
 var Complex128 = require( '@stdlib/complex-float64-ctor' );
 var real = require( '@stdlib/complex-real' );
-var imag = require( '@stdlib/complex-imag' );
+var imag = require( '@stdlib/complex-float64-imag' );
 
 // Initial array:
 var zx0 = new Complex128Array( [ 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0 ] );
@@ -158,7 +158,7 @@ Scales values from `zx` by `za` using alternative indexing semantics.
 var Complex128Array = require( '@stdlib/array-complex128' );
 var Complex128 = require( '@stdlib/complex-float64-ctor' );
 var real = require( '@stdlib/complex-real' );
-var imag = require( '@stdlib/complex-imag' );
+var imag = require( '@stdlib/complex-float64-imag' );
 
 var zx = new Complex128Array( [ 1.0, 2.0, 3.0, 4.0, 5.0, 6.0 ] );
 var za = new Complex128( 2.0, 2.0 );
@@ -185,7 +185,7 @@ While [`typed array`][mdn-typed-array] views mandate a view offset based on the 
 var Complex128Array = require( '@stdlib/array-complex128' );
 var Complex128 = require( '@stdlib/complex-float64-ctor' );
 var real = require( '@stdlib/complex-real' );
-var imag = require( '@stdlib/complex-imag' );
+var imag = require( '@stdlib/complex-float64-imag' );
 
 var zx = new Complex128Array( [ 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0 ] );
 var za = new Complex128( 2.0, 2.0 );
@@ -399,8 +399,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/blas-base-zscal.svg
 [npm-url]: https://npmjs.org/package/@stdlib/blas-base-zscal
 
-[test-image]: https://github.com/stdlib-js/blas-base-zscal/actions/workflows/test.yml/badge.svg?branch=v0.0.1
-[test-url]: https://github.com/stdlib-js/blas-base-zscal/actions/workflows/test.yml?query=branch:v0.0.1
+[test-image]: https://github.com/stdlib-js/blas-base-zscal/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/blas-base-zscal/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/blas-base-zscal/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/blas-base-zscal?branch=main
