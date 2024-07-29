@@ -56,11 +56,11 @@
     "@stdlib/utils-try-require": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/array-complex128": "^0.2.1",
+    "@stdlib/array-complex128": "^0.3.0",
     "@stdlib/array-filled-by": "^0.2.1",
     "@stdlib/array-float64": "^0.2.2",
     "@stdlib/assert-is-browser": "^0.2.2",
-    "@stdlib/blas-base-zscal": "^0.0.1",
+    "@stdlib/blas-base-zscal": "^0.0.2",
     "@stdlib/complex-float32-ctor": "^0.0.2",
     "@stdlib/constants-float64-eps": "^0.2.2",
     "@stdlib/math-base-assert-is-nan": "^0.2.2",
