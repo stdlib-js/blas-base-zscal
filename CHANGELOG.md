@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`095803e`](https://github.com/stdlib-js/stdlib/commit/095803e670e9095e08daffc079c95af23c7bca98) - **docs:** change variable naming in `blas/base/zscal` [(#6880)](https://github.com/stdlib-js/stdlib/pull/6880) _(by Shabareesh Shetty)_
 -   [`0b4a818`](https://github.com/stdlib-js/stdlib/commit/0b4a8186131a6a245fe1d893afae19c0524dbbef) - **fix:** use correct dependencies in `manifest.json` of `blas/base/zscal` [(#7121)](https://github.com/stdlib-js/stdlib/pull/7121) _(by Shabareesh Shetty)_
 -   [`5f73301`](https://github.com/stdlib-js/stdlib/commit/5f73301a8509cc423a06b02140c4e316fd02ff49) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`c86e76e`](https://github.com/stdlib-js/stdlib/commit/c86e76e8c9ab907aedfccfbd74ca3ad39ff75a3e) - **feat:** add C `ndarray` implementation for `blas/base/zscal` [(#4864)](https://github.com/stdlib-js/stdlib/pull/4864) _(by Aman Bhansali, Athan Reines, stdlib-bot)_
