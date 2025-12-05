@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-21)
+## Unreleased (2025-12-05)
 
 <section class="features">
 
@@ -26,12 +26,27 @@
 
 <!-- /.bug-fixes -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#8265](https://github.com/stdlib-js/stdlib/issues/8265)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`09c6032`](https://github.com/stdlib-js/stdlib/commit/09c603243ffb5539937ebd1986e9d9029c7a52cb) - **chore:** update array allocation and example path [(#8789)](https://github.com/stdlib-js/stdlib/pull/8789) _(by Atharv1405)_
+-   [`7e39b69`](https://github.com/stdlib-js/stdlib/commit/7e39b69431dfad9f542cd3b8028d4bd50718fc24) - **docs:** fix TSDoc return annotation values and example code _(by Philipp Burckhardt)_
+-   [`4977993`](https://github.com/stdlib-js/stdlib/commit/4977993a257fde660b0f8c5678ab0c8d6e26538a) - **docs:** fix example code _(by Philipp Burckhardt)_
 -   [`bfa899f`](https://github.com/stdlib-js/stdlib/commit/bfa899f1968bc5b112549fc3e839973744706297) - **refactor:** update include header guards for double precision complex packages [(#7709)](https://github.com/stdlib-js/stdlib/pull/7709) _(by Shabareesh Shetty)_
 -   [`09c9ceb`](https://github.com/stdlib-js/stdlib/commit/09c9ceb58c6dd23c10f1980094851983c57d693f) - **chore:** fix formatting _(by Athan Reines)_
 -   [`51bf6f9`](https://github.com/stdlib-js/stdlib/commit/51bf6f9d2bb027aacecda87e02f957badbc246b0) - **bench:** fix formatting _(by Athan Reines)_
@@ -54,10 +69,11 @@
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aman Bhansali
 -   Athan Reines
+-   Atharv1405
 -   Gururaj Gurram
 -   Philipp Burckhardt
 -   Shabareesh Shetty
