@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-05)
+## Unreleased (2025-12-19)
 
 <section class="features">
 
@@ -30,9 +30,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#8265](https://github.com/stdlib-js/stdlib/issues/8265)
+[#8265](https://github.com/stdlib-js/stdlib/issues/8265), [#9140](https://github.com/stdlib-js/stdlib/issues/9140)
 
 </section>
 
@@ -44,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`dd5de21`](https://github.com/stdlib-js/stdlib/commit/dd5de2167d0e95c4065ae262c72226bd3ebf1f91) - **docs:** fix broken Markdown link [(#9166)](https://github.com/stdlib-js/stdlib/pull/9166) _(by Sujal charati)_
 -   [`09c6032`](https://github.com/stdlib-js/stdlib/commit/09c603243ffb5539937ebd1986e9d9029c7a52cb) - **chore:** update array allocation and example path [(#8789)](https://github.com/stdlib-js/stdlib/pull/8789) _(by Atharv1405)_
 -   [`7e39b69`](https://github.com/stdlib-js/stdlib/commit/7e39b69431dfad9f542cd3b8028d4bd50718fc24) - **docs:** fix TSDoc return annotation values and example code _(by Philipp Burckhardt)_
 -   [`4977993`](https://github.com/stdlib-js/stdlib/commit/4977993a257fde660b0f8c5678ab0c8d6e26538a) - **docs:** fix example code _(by Philipp Burckhardt)_
@@ -69,7 +70,7 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 6 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
 -   Aman Bhansali
 -   Athan Reines
@@ -77,6 +78,7 @@ A total of 6 people contributed to this release. Thank you to the following cont
 -   Gururaj Gurram
 -   Philipp Burckhardt
 -   Shabareesh Shetty
+-   Sujal charati
 
 </section>
 
