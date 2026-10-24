@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-13)
+## Unreleased (2026-10-24)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`9a275f5`](https://github.com/stdlib-js/stdlib/commit/9a275f5c92761250d99fde97860fda4afc4ce917) - **test:** migrate `blas/base/zscal` to ULP-based assertions [(#16200)](https://github.com/stdlib-js/stdlib/pull/16200) _(by Athan Reines)_
 -   [`3208321`](https://github.com/stdlib-js/stdlib/commit/320832192c8d32b18d24c7342ba1cf03cc5affea) - **bench:** refactor to use dynamic memory allocation [(#14099)](https://github.com/stdlib-js/stdlib/pull/14099) _(by Philipp Burckhardt, Athan Reines)_
 -   [`8ff59d6`](https://github.com/stdlib-js/stdlib/commit/8ff59d63eaa88d252f5404e3b3affdf5c66821d5) - **chore:** propagate `blas/*` JSDoc and `cscal` header fixes to siblings [(#12318)](https://github.com/stdlib-js/stdlib/pull/12318) _(by Philipp Burckhardt)_
 -   [`f490e6f`](https://github.com/stdlib-js/stdlib/commit/f490e6fc9a92d5e8e9d125d842b9c572b04eb4b3) - **bench:** use string interpolation in `blas/base/zscal` [(#10255)](https://github.com/stdlib-js/stdlib/pull/10255) _(by Om-A-osc)_
